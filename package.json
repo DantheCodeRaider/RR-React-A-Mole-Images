@@ -1,0 +1,20 @@
+{
+  "name": "rr-react-a-mole-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DantheCodeRaider/RR-React-A-Mole-Images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DantheCodeRaider/RR-React-A-Mole-Images/issues"
+  },
+  "homepage": "https://github.com/DantheCodeRaider/RR-React-A-Mole-Images#readme"
+}
